@@ -2,1254 +2,127 @@
   "mainKey": "0x6769b7dde78537d4e1f2a5955ddb390de62a20af5aed733e52b1fc7c93e2f1aa",
   "dynamicKeys": [
     {
-      "guid": "0bbd6500-4501-4881-764d-b782bfba9da5",
+      "guid": "0BBD650045014881764DB782BFBA9DA5",
       "key": "0x5995530fe0407294207c2ddb81a73fb2c300e82a2bc789e7feae288afa0360e1",
       "name": "pakchunk10-MapsWPSP_OW_Main_A_To_M-WindowsClient.pak"
     },
     {
-      "guid": "22bf79f6-4e24-bdda-dc0a-6f8f6c0033b6",
+      "guid": "22BF79F64E24BDDADC0A6F8F6C0033B6",
       "key": "0x6c01c369fabdbd23cc84b5400129e4fa2fd12f6205d721a5e4cb3b1cf4df0f8b",
       "name": "pakchunk10-MapsWPSP_OW_Main_A_To_M-WindowsClient_0_P.pak"
     },
     {
-      "guid": "f8484fbb-448a-76dd-75c2-c987efe8b607",
+      "guid": "F8484FBB448A76DD75C2C987EFE8B607",
       "key": "0xfaa8cc941262d3b75f9ef9633a1e74969621b35895f889aace644139740b6d1e",
       "name": "pakchunk10-MapsWPSP_OW_Main_A_To_M-WindowsClient_1_P.pak"
     },
     {
-      "guid": "d4073bd6-4737-b435-9131-9ba2a8806ac0",
+      "guid": "D4073BD64737B43591319BA2A8806AC0",
       "key": "0xa1ae6c75b8f5ae4395af7c700c91358382591948e2545ebff8c6b33b7e94e76d",
       "name": "pakchunk1000-ChineseChapter000-WindowsClient.pak"
     },
     {
-      "guid": "fb72dcd7-4e9f-bc91-3d00-489bd4242cf2",
+      "guid": "FB72DCD74E9FBC913D00489BD4242CF2",
       "key": "0x9675a1ee6ee86215e7a373c7124b0e1129e27e688df2342d5c66d77999d35465",
       "name": "pakchunk10000-ChineseChapter000Text-WindowsClient.pak"
     },
     {
-      "guid": "712c9f04-48c4-a6ba-b5e1-678f73e9b010",
+      "guid": "712C9F0448C4A6BAB5E1678F73E9B010",
       "key": "0x0ac56bafa9e28fdcae165ed6738c381329c8b644e364766367d3b858dfc47a42",
       "name": "pakchunk10001-ChineseChapter001Text-WindowsClient.pak"
     },
     {
-      "guid": "88268aae-4529-18c0-6b11-ac8833598abe",
+      "guid": "88268AAE452918C06B11AC8833598ABE",
       "key": "0xeee0939343e887b3bf1139007f93a399456501fb1c9778ad26d093d6a51e01d2",
       "name": "pakchunk10002-ChineseChapter002Text-WindowsClient.pak"
     },
     {
-      "guid": "9e5adb5b-4871-afde-8f75-6da17c61b525",
+      "guid": "9E5ADB5B4871AFDE8F756DA17C61B525",
       "key": "0xfc12e542be99ff1afb5c1d94d8a1aa6326e2d48cf1ea7b00f0db4a5c435b1b1e",
       "name": "pakchunk1001-ChineseChapter001-WindowsClient.pak"
     },
     {
-      "guid": "b0d7a602-4b16-1f94-7399-20b290f6ad8b",
+      "guid": "B0D7A6024B161F94739920B290F6AD8B",
       "key": "0x9aad1e09e9f806abd2f56c7327c51a1f25ef95d3e1b51e576e754c75eaedf228",
       "name": "pakchunk10300-ChineseChapter300Text-WindowsClient.pak"
     },
     {
-      "guid": "32407331-4665-edcf-48f8-69b45409f4ce",
+      "guid": "324073314665EDCF48F869B45409F4CE",
       "key": "0x15a62d4578a9d99c536d10c0789e2b0958140e554a94c09e2d37780f6aa81b89",
       "name": "pakchunk10400-ChineseChapter400Text-WindowsClient.pak"
     },
     {
-      "guid": "1f39f698-46f5-ac93-9951-b89568837e76",
+      "guid": "1F39F69846F5AC939951B89568837E76",
       "key": "0x09c949772bdce6fa6db96c22a077646d67388bbac94fe35aa19423b7f2b6fec7",
       "name": "pakchunk10500-ChineseChapter500Text-WindowsClient.pak"
     },
     {
-      "guid": "428bdac3-4aef-5821-6d7f-42ae1621f213",
+      "guid": "428BDAC34AEF58216D7F42AE1621F213",
       "key": "0xd5be2a806a13ea8bdcdc4ba0e9269370dc05c3461f9fdbeb00095da371d458e9",
       "name": "pakchunk10600-ChineseChapter600Text-WindowsClient.pak"
     },
     {
-      "guid": "3ae52a23-4442-fd5c-62ed-2881da0b1fc4",
+      "guid": "3AE52A234442FD5C62ED2881DA0B1FC4",
       "key": "0x922a1e2640fe15c59394f48161662f9a2bb87bf93501bcd638dabc01a90b1d92",
       "name": "pakchunk10700-ChineseChapter700Text-WindowsClient.pak"
     },
     {
-      "guid": "66209fa3-45a4-3794-898b-36bdbcd9ca1c",
+      "guid": "66209FA345A43794898B36BDBCD9CA1C",
       "key": "0xe85e75fa029822e0de89e9f472887939f293bd5744834935425d313e33311db6",
       "name": "pakchunk10702-ChineseChapter702Text-WindowsClient.pak"
     },
     {
-      "guid": "81b59896-4d42-a7be-0fab-bdb6bb8a9a95",
+      "guid": "81B598964D42A7BE0FABBDB6BB8A9A95",
       "key": "0x6fcadb290e5e6cce23214b9008c190bbb487433db3c4efb9ccb5cddd0bb05aa2",
       "name": "pakchunk10703-ChineseChapter703Text-WindowsClient.pak"
     },
     {
-      "guid": "f3fcd0ae-49b8-919d-c71c-c790b7050442",
+      "guid": "F3FCD0AE49B8919DC71CC790B7050442",
       "key": "0x6923f0b64fdb7a404982d5d190e940eee6d78f927e74e92ca680d0fdca4bcff0",
       "name": "pakchunk10800-ChineseChapter800Text-WindowsClient.pak"
     },
     {
-      "guid": "0e36adfe-4062-a7ba-c4f2-7baf137eda73",
+      "guid": "0E36ADFE4062A7BAC4F27BAF137EDA73",
       "key": "0x2e2a717af3dd05ea0effd4896e06f8603ddd4afb5595342c599b8b8f24607791",
       "name": "pakchunk10801-ChineseChapter801Text-WindowsClient.pak"
     },
     {
-      "guid": "75f793e6-4b7c-f60c-d67d-b3b133cad29f",
+      "guid": "75F793E64B7CF60CD67DB3B133CAD29F",
       "key": "0xb20e563a061f5f1adcc589bea8980b0addb24bddfd9e06d014c88fe91572807c",
       "name": "pakchunk10802-ChineseChapter802Text-WindowsClient.pak"
     },
     {
-      "guid": "590a3fc2-4f8e-bd8d-71e2-af9666dbe1a8",
+      "guid": "590A3FC24F8EBD8D71E2AF9666DBE1A8",
       "key": "0x8f143ef8ee93116b9b42a2e4a482c6d4011b5bc5754668f4b25958bbd92c7c81",
       "name": "pakchunk10900-ChineseChapter900Text-WindowsClient.pak"
     },
     {
-      "guid": "c4c488a1-4a1b-1c42-0a03-c69eb1f96284",
+      "guid": "C4C488A14A1B1C420A03C69EB1F96284",
       "key": "0xf36690e1f061d01ca81766811e105212c493f4d1702a615a2fdecbb19f0d86ee",
       "name": "pakchunk10999-ChineseChapter999Text-WindowsClient.pak"
     },
     {
-      "guid": "79826c32-487b-4551-80bb-419354e02bbb",
+      "guid": "79826C32487B455180BB419354E02BBB",
       "key": "0x53e303f99fc010a63a4c192c7beb2af6b9be5f786b418f707e0972d121f5ede0",
       "name": "pakchunk11-MapsWPSP_OW_Main_N_To_Z-WindowsClient.pak"
     },
     {
-      "guid": "91d318b1-4a45-a582-3cde-cfabf46c7a30",
+      "guid": "91D318B14A45A5823CDECFABF46C7A30",
       "key": "0x4fc05e9329ecb3b1ff315656dd3a3fa359fbbda8acb82b4560793bb5555bb4b5",
       "name": "pakchunk11-MapsWPSP_OW_Main_N_To_Z-WindowsClient_0_P.pak"
     },
     {
-      "guid": "e9025fb3-470a-e4fc-d3d9-de9147d57eca",
+      "guid": "E9025FB3470AE4FCD3D9DE9147D57ECA",
       "key": "0x775c83c480d2c45594c4120bdcc26e99510d648fada52c3ddcc54b9b2a66f70c",
       "name": "pakchunk11000-EnglishChapter000Text-WindowsClient.pak"
     },
     {
-      "guid": "21782ffe-4b8f-96d4-274a-44a550701adf",
+      "guid": "21782FFE4B8F96D4274A44A550701ADF",
       "key": "0x135040d5d77758dcf12f3556993d6607494ff3d8f32aa8987f649f61d2524cf3",
       "name": "pakchunk11001-EnglishChapter001Text-WindowsClient.pak"
     },
     {
-      "guid": "c8358015-47ed-2612-7a98-ada317b352a3",
+      "guid": "C835801547ED26127A98ADA317B352A3",
       "key": "0xb1106a8a56c1eacee06a28e2eaaeb072c6d406c6f13ae8644f602a870579af05",
       "name": "pakchunk11002-EnglishChapter002Text-WindowsClient.pak"
     },
-    {
-      "guid": "0b904eb5-4f28-2954-72cf-2bbfaf54a9b1",
-      "key": "0x23a405cdb856cdd288ee89feb8447e84ef8c9d72f728df3dd075a53ea6366ef2",
-      "name": "pakchunk11300-EnglishChapter300Text-WindowsClient.pak"
-    },
-    {
-      "guid": "8087e2d9-4da6-c65c-8778-2c97a434fe12",
-      "key": "0xbfe6b2e108a31514ed62be3f5fb3531a13e34a087f5802ebc11e305678c3c282",
-      "name": "pakchunk11400-EnglishChapter400Text-WindowsClient.pak"
-    },
-    {
-      "guid": "785e6a57-46f0-4909-e09c-16b82435b17f",
-      "key": "0x962df4b440ad2f949234847ac4d491d008c501a690f93f1b59d259481b97ba01",
-      "name": "pakchunk11500-EnglishChapter500Text-WindowsClient.pak"
-    },
-    {
-      "guid": "f92de0a5-4d84-2f3f-39f0-b78e7a7f1247",
-      "key": "0x53706f267d55cdd35bc2217ef8937fe046b5cf7dc219d0a37e07a56b169d0446",
-      "name": "pakchunk11600-EnglishChapter600Text-WindowsClient.pak"
-    },
-    {
-      "guid": "30ef254d-44ac-b3ec-67f9-24a73e959db2",
-      "key": "0xf9ee6b08eb6cda6818eaac3e4cd922a6c32de16daef8d4a673988abacd4a1930",
-      "name": "pakchunk11700-EnglishChapter700Text-WindowsClient.pak"
-    },
-    {
-      "guid": "2c23c6fe-410c-af97-c33f-a293f3e8a623",
-      "key": "0xf47a3c6312cbdee1aad08e4876ddd02f86dabbba343df57008b6ffcfe255ea3a",
-      "name": "pakchunk11702-EnglishChapter702Text-WindowsClient.pak"
-    },
-    {
-      "guid": "2f9cc169-4ef6-71c1-5f8d-c49eed54e8fb",
-      "key": "0x7395f19f12ba687f4210b37523cbfcb26828067a88e39287c2c4b894b871359c",
-      "name": "pakchunk11703-EnglishChapter703Text-WindowsClient.pak"
-    },
-    {
-      "guid": "d2800d8e-47c7-6b25-5901-94958e73d5c6",
-      "key": "0x7ec3a9adb6fd8d4fb38e4a73fa7609a7cf7c121bc561cf9008cc0eeecdc0378c",
-      "name": "pakchunk11800-EnglishChapter800Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5ac5dd37-45b0-c3d6-27d1-d0995e47a246",
-      "key": "0x8e2645f6fefa4ea97f40950bc658e88758d55256c4d455f6aa10ab47fd62946f",
-      "name": "pakchunk11801-EnglishChapter801Text-WindowsClient.pak"
-    },
-    {
-      "guid": "b9d2e558-489b-0412-a922-7d8ef6107701",
-      "key": "0xb8284e2096ec700bdcbd38d5a3dc7b95b09fb8c74e0133b3ee54104f8a34cdef",
-      "name": "pakchunk11802-EnglishChapter802Text-WindowsClient.pak"
-    },
-    {
-      "guid": "2f5d7006-42a3-1c45-1977-74bad4a766f8",
-      "key": "0x0ce01b656d09dd8f6f6af690a99cdbfd30b150fc39d32d05e334c421a616fe70",
-      "name": "pakchunk11900-EnglishChapter900Text-WindowsClient.pak"
-    },
-    {
-      "guid": "3376e021-4a57-ab50-86b2-04bdff6bbdc6",
-      "key": "0x157e0e21d4f6c78cedfc4d406cb658e63fc90c0bfeb5fca59d4db1d09f34926d",
-      "name": "pakchunk11999-EnglishChapter999Text-WindowsClient.pak"
-    },
-    {
-      "guid": "81314874-4971-9689-ee56-b6a8a6c94560",
-      "key": "0x54b41a58e7bf9aa7a83884217e8c81a85e1ac211db5c99fea47c24968f8f5294",
-      "name": "pakchunk12000-JapaneseChapter000Text-WindowsClient.pak"
-    },
-    {
-      "guid": "e78c284d-4750-b740-16dc-99bf95172ece",
-      "key": "0x1654161fc775b05498f19fa48b3825f2416578833969526dc263696e4bb34657",
-      "name": "pakchunk12001-JapaneseChapter001Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5e353d31-4e70-8528-52b0-1282bc0ee562",
-      "key": "0x6d92f1184e8a9cf63b1d74786bb7c2ee8891825a4ab0f08f913c9e0c044f756b",
-      "name": "pakchunk12002-JapaneseChapter002Text-WindowsClient.pak"
-    },
-    {
-      "guid": "10d4e0d8-491d-81ea-dc9d-588d49bc4cb5",
-      "key": "0xad7894bc5362883acbfc5238d9b0413106bdbf9904aede5c3af6780544d2509f",
-      "name": "pakchunk12300-JapaneseChapter300Text-WindowsClient.pak"
-    },
-    {
-      "guid": "259c16e4-4759-8f4f-fb3a-98b2ce871de1",
-      "key": "0xf01a96c9ae967bbb0afed4ecd0a3319265c97690bfe45bfb473f679056581e4b",
-      "name": "pakchunk12400-JapaneseChapter400Text-WindowsClient.pak"
-    },
-    {
-      "guid": "3da031dd-4def-38ea-01d1-6c8e0a3082f4",
-      "key": "0xe4ea44e46336afefe4b26ac56b99c70508597c00a346e42f1b50ae2324183408",
-      "name": "pakchunk12500-JapaneseChapter500Text-WindowsClient.pak"
-    },
-    {
-      "guid": "8ad23e3e-4129-ffda-08c1-f1804a38ee3e",
-      "key": "0x56387379c1e1a9ea633845824b6734dba0fd2afa43e40515628b4c6da1a10fba",
-      "name": "pakchunk12600-JapaneseChapter600Text-WindowsClient.pak"
-    },
-    {
-      "guid": "c5321983-4ce3-f51d-1605-4aa11de53fb3",
-      "key": "0x5cfad502982df21d5be20837831a286232e9dd75cff9ed02af64799eb58c642d",
-      "name": "pakchunk12700-JapaneseChapter700Text-WindowsClient.pak"
-    },
-    {
-      "guid": "b8d2b594-4d70-80d8-3f22-a386ca88603e",
-      "key": "0xa95e08290b9f2311121e3e7fa4dcc435b9719eb4311b0f00124700cb199dc0e0",
-      "name": "pakchunk12702-JapaneseChapter702Text-WindowsClient.pak"
-    },
-    {
-      "guid": "e5ddd19d-41fa-22f0-f915-0d8fa5754344",
-      "key": "0xdef8c0696e73c7d8ba39d119f396ffe80c735fc32f3c401859b063e3ff45169b",
-      "name": "pakchunk12703-JapaneseChapter703Text-WindowsClient.pak"
-    },
-    {
-      "guid": "2345b13b-4af4-8984-6f07-caba80e4a277",
-      "key": "0x79135f9a39b26da36b54c5f45c8ff9eaf62675fd9b2ba8af579ffb3a0c807000",
-      "name": "pakchunk12800-JapaneseChapter800Text-WindowsClient.pak"
-    },
-    {
-      "guid": "8cbf2730-4a9c-d7e1-c7c2-8fb64589cc7f",
-      "key": "0x4f229ae4fc795c7a462af75f1cbf5d06335389a573c71642b759fcb20f814671",
-      "name": "pakchunk12801-JapaneseChapter801Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5183b494-477d-9a25-35eb-769b2de51b5d",
-      "key": "0x1cdad0508fbc3f03f9e6d07fdb83e0e08b3d8e9de0615695ecab5c7120b943d6",
-      "name": "pakchunk12802-JapaneseChapter802Text-WindowsClient.pak"
-    },
-    {
-      "guid": "e17322d6-4097-f0ba-488b-74868bb62d19",
-      "key": "0x9c2476f1e46144674176d8a23840757186b73f6ffbb9c3ab50d0180ef9e635fa",
-      "name": "pakchunk12900-JapaneseChapter900Text-WindowsClient.pak"
-    },
-    {
-      "guid": "b8888ec5-4b2b-617f-2158-f5809d6eb0c1",
-      "key": "0x8a1a5278beac4ee772707807b2d1dc2f5e36e4bd1d951af4dd1583f7522e97ab",
-      "name": "pakchunk12999-JapaneseChapter999Text-WindowsClient.pak"
-    },
-    {
-      "guid": "0f56010a-470f-cb7f-f441-b7b321ad36c6",
-      "key": "0x552357c926d5f97b6e5e92447bea2010353e25236f971e7eca6f4fbdcf5f2f51",
-      "name": "pakchunk13-MapsWP-WindowsClient.pak"
-    },
-    {
-      "guid": "bed2e6b4-4c6b-bf53-2793-a68ccf81e05c",
-      "key": "0x0877024143230a6cc509191a56649214ea25c96744405c3ea94c0c6c8f696d40",
-      "name": "pakchunk13-MapsWP-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "05f49191-4948-2683-6111-7bacb77d715b",
-      "key": "0x27227832407a5f4e37300fb5ee4fcbd9a4b22a2d2e16da633264ec5e5d4a2891",
-      "name": "pakchunk13-MapsWP-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "5548e2d5-4582-74ee-28f7-f1a384544788",
-      "key": "0xd60c0fdc5e740841876a97c30e3dca15ebd2e947d1b4f955a989d304ae467c07",
-      "name": "pakchunk13000-KoreanChapter000Text-WindowsClient.pak"
-    },
-    {
-      "guid": "38634233-43bf-2d40-99a4-aa9a58412ab3",
-      "key": "0x77e02c115460b2a4a7290049a1fa83fa039088491649fce8acd47e8a1200ed1b",
-      "name": "pakchunk13001-KoreanChapter001Text-WindowsClient.pak"
-    },
-    {
-      "guid": "d6b7032c-4f95-1f58-ec40-a481db868cb6",
-      "key": "0x7d5a7d37802de911f8c807efcd022f60329bbd02f6180d7300d7b53aa644c13a",
-      "name": "pakchunk13002-KoreanChapter002Text-WindowsClient.pak"
-    },
-    {
-      "guid": "dfdc3d75-4fc4-19dd-dea0-72a1001311db",
-      "key": "0x7f92249b9deff16d99b4cfdd31a44f09ccc27c115ea92056c816d6ae8a03fd45",
-      "name": "pakchunk13300-KoreanChapter300Text-WindowsClient.pak"
-    },
-    {
-      "guid": "0bf35116-4a0a-2444-72f7-95b6713d5d97",
-      "key": "0x209511c778ac78f5a91097920ac773d4378e673a0ed7a3703d3113811104a300",
-      "name": "pakchunk13400-KoreanChapter400Text-WindowsClient.pak"
-    },
-    {
-      "guid": "fd9168b5-419a-97d3-22fe-67ba90ec3a90",
-      "key": "0xc4aa7310ab2d27f3fe7302621a5063689522dda8662fa74785f99bbc9121427f",
-      "name": "pakchunk13500-KoreanChapter500Text-WindowsClient.pak"
-    },
-    {
-      "guid": "0c0cb42f-4d23-7160-56ba-4dbd2386104e",
-      "key": "0x040cbc2465fa6761b29ffe148efebd2eeba70ca82563402f131961c8c0c0aa7e",
-      "name": "pakchunk13600-KoreanChapter600Text-WindowsClient.pak"
-    },
-    {
-      "guid": "61bd4d90-402c-d056-8f7c-50b14e94ba5f",
-      "key": "0x760d53baefd4d4aeb64ad05e83dd50addd81a361f54306416b9deb5a719ae41c",
-      "name": "pakchunk13700-KoreanChapter700Text-WindowsClient.pak"
-    },
-    {
-      "guid": "aeaa6246-4027-a228-7135-3da394753a23",
-      "key": "0x16265c51f1839d0aaaec4575b4ec5967e4cbf7d79bda239ef829df2a9de71c41",
-      "name": "pakchunk13702-KoreanChapter702Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5f11d1bc-4cf5-e792-acb5-d6a6b8682b30",
-      "key": "0x12e5c729b9cdf34275d2191beb90ce76c9ee702d18f8ec5690950451dbadf151",
-      "name": "pakchunk13703-KoreanChapter703Text-WindowsClient.pak"
-    },
-    {
-      "guid": "b94b5fb9-467c-51ae-ad3b-d69cb4cadc52",
-      "key": "0xfc28d7024757520d5726ffff8accfefbc47c4382531fa1d74e892fd4fc18e9d4",
-      "name": "pakchunk13800-KoreanChapter800Text-WindowsClient.pak"
-    },
-    {
-      "guid": "40b16421-4416-7da1-6d15-02af30620dbd",
-      "key": "0x3e1c18a12c63932c56375ef8ff38105d525c7e23d943f5667a6e7f8dc0690f18",
-      "name": "pakchunk13801-KoreanChapter801Text-WindowsClient.pak"
-    },
-    {
-      "guid": "18c18130-4e45-3562-6049-4a8bb279ccd4",
-      "key": "0x2e0984d85ad2ecfa14d0cef76cb56d3186367155fd0a7915674d96e6a37b8ccc",
-      "name": "pakchunk13802-KoreanChapter802Text-WindowsClient.pak"
-    },
-    {
-      "guid": "37efd4e0-4c24-f9c0-e03d-e8b49537cf51",
-      "key": "0xac78c53a09547255c65b0ba9c2752438dcbb0e79be5ace5d78d7ddc76b2a6d58",
-      "name": "pakchunk13900-KoreanChapter900Text-WindowsClient.pak"
-    },
-    {
-      "guid": "b2620708-43a2-644c-0526-e2bcb036a4b5",
-      "key": "0xa72b3caa208eaaa4acaee753e314050c3c8161289dc51002bf8a2c61dae88c80",
-      "name": "pakchunk13999-KoreanChapter999Text-WindowsClient.pak"
-    },
-    {
-      "guid": "4ca39ebc-43cb-ee46-89ba-73831969e6ea",
-      "key": "0x559fc8faeceb52ca0b5949195227bd5ffd828e9595a9123de85366163be5bf92",
-      "name": "pakchunk14000-ChineseTWChapter000Text-WindowsClient.pak"
-    },
-    {
-      "guid": "aea697fd-4160-bffb-9ae7-4aa1602e4514",
-      "key": "0xc56038f34f9ed9023a3dab8a8dc9fe45ce2983fd23e76960831e2d2f717e0e25",
-      "name": "pakchunk14001-ChineseTWChapter001Text-WindowsClient.pak"
-    },
-    {
-      "guid": "50b4c6a0-4dab-82a7-e6ed-b092670d6fde",
-      "key": "0xb2feb814f67fecf4b0bda504ca4a2ead5cacb6f2788da9719c7a70d2862fccf9",
-      "name": "pakchunk14002-ChineseTWChapter002Text-WindowsClient.pak"
-    },
-    {
-      "guid": "afa1c523-4824-e7b2-26d0-e7b40c57f56c",
-      "key": "0xc305bb41094209f3e50750be891a637c4b03982c5471c5f000c0cdc797b264b7",
-      "name": "pakchunk14300-ChineseTWChapter300Text-WindowsClient.pak"
-    },
-    {
-      "guid": "6d6ed17d-4b92-a62d-d4bd-6b8b609e55ee",
-      "key": "0xdaaeadc94e4abf58437ca4eebf7dd5631a7dc7915ced9c71efc6c9fe808a2d79",
-      "name": "pakchunk14400-ChineseTWChapter400Text-WindowsClient.pak"
-    },
-    {
-      "guid": "408b5e75-4aba-4763-bc12-aba4791a9529",
-      "key": "0xb27e42e64958c15ff6f254a0081ff3f286688cbff3f79603bc8d93d2a924f75f",
-      "name": "pakchunk14500-ChineseTWChapter500Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5fa4a3f8-4237-6707-516d-9b8467e0b863",
-      "key": "0xbca11f9e83320e571b1ea3414ef82a316dccdbb1309cd912bd25517f92a3939e",
-      "name": "pakchunk14600-ChineseTWChapter600Text-WindowsClient.pak"
-    },
-    {
-      "guid": "519a2586-4335-d2d2-9aa5-279a6f0025ce",
-      "key": "0x3a344737eee95c189db0bce7bfcac7b00e4ea5e6aa0067b90662edecb9bc8c46",
-      "name": "pakchunk14700-ChineseTWChapter700Text-WindowsClient.pak"
-    },
-    {
-      "guid": "551171a6-4455-48d6-1ba4-f184eb781087",
-      "key": "0x061d45e766a2bcad5cbd5e76a737099786d71ff92acaf2d23041ad4fc2a8ff5a",
-      "name": "pakchunk14702-ChineseTWChapter702Text-WindowsClient.pak"
-    },
-    {
-      "guid": "d7093b2b-432c-3dc0-54b4-40a9c31d4495",
-      "key": "0x9c53b6ba8c565650ed017928bc39d8bd170caf3b2d8684ec201da8060062a55e",
-      "name": "pakchunk14703-ChineseTWChapter703Text-WindowsClient.pak"
-    },
-    {
-      "guid": "5cbb6519-43ae-a0a8-c800-e9aedb06fc6f",
-      "key": "0xc0f2d7c154a6ede5b4f7259289fade9a8ff177fb954c31a12e12c083b5d40cf1",
-      "name": "pakchunk14800-ChineseTWChapter800Text-WindowsClient.pak"
-    },
-    {
-      "guid": "f6dd7842-4491-29db-31cb-90a85f6ff484",
-      "key": "0x32b63f188e6aca4bb2021efb13fee67d7a4c19a18010ec34908930d1a9e197a8",
-      "name": "pakchunk14801-ChineseTWChapter801Text-WindowsClient.pak"
-    },
-    {
-      "guid": "999b968b-4b19-515f-6607-8cb9f76b4d2b",
-      "key": "0x9c6db330267ab07719b0e6417cc8653bbe23f769c1d5bcdd38feb6fd8d44ff38",
-      "name": "pakchunk14802-ChineseTWChapter802Text-WindowsClient.pak"
-    },
-    {
-      "guid": "602aebd7-436a-86b7-f7e3-4e8ca854eadd",
-      "key": "0x02192d6215bef0402defb71df7f52c210a069a96dca055832d068d442fcde1d7",
-      "name": "pakchunk14900-ChineseTWChapter900Text-WindowsClient.pak"
-    },
-    {
-      "guid": "51a4706c-4450-9875-512c-61ac55763e44",
-      "key": "0x8daa24f8750daa34417b36236eb648282c391dd9d7213a0f5f3743145b5b044f",
-      "name": "pakchunk14999-ChineseTWChapter999Text-WindowsClient.pak"
-    },
-    {
-      "guid": "d02b0e3e-4d70-50be-3317-c1a172e90437",
-      "key": "0xbc0acc9d817b650921040e984d755c8db91c174bd613b947e2a99eb8b3ef3e45",
-      "name": "pakchunk1500-ChineseChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "e955b148-481a-6ccc-dd32-d7a17cee9316",
-      "key": "0xed12113f06ebe4e3a560c029fa49b46401c3bd8d4985f3791b95dadfca76a8d2",
-      "name": "pakchunk1800-ChineseChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "9cf7c61a-4588-a9cf-4179-e099ee5874e2",
-      "key": "0xcd4234f60a8384660ed7db4c2eb0720c64fe2292a514004d3b00a7f15fa04c00",
-      "name": "pakchunk19-ArtResCharResEnvAnimals-WindowsClient.pak"
-    },
-    {
-      "guid": "dbbb7e02-4eb3-ca28-7a34-6598243f2725",
-      "key": "0x571ede2f2b1be2965071a7fc3ef2b2b401cdd37c7f83699d132092b748c4dccd",
-      "name": "pakchunk1900-ChineseChapter900-WindowsClient.pak"
-    },
-    {
-      "guid": "7c4a4dc8-43e5-ec70-747d-83aad6b9d0e4",
-      "key": "0xf02ca15020727e5ea4e76cf85d3d1dd0ddafb3de3932497a761641fc4aa79dd8",
-      "name": "pakchunk1999-ChineseChapter999-WindowsClient.pak"
-    },
-    {
-      "guid": "e9811105-42e0-fe87-c5a4-ceb6935e4f6c",
-      "key": "0xc1ec8c0088710883a00c46e9377651454244178c36b1c7ee6164883e56106962",
-      "name": "pakchunk19AA-ArtResCharResNPC0to4-WindowsClient.pak"
-    },
-    {
-      "guid": "600a0068-493d-4669-44ea-248491b28cb5",
-      "key": "0x70889d90854ed62947a1ee9dc0e4213921b8a24d21bf3a088867ad33ffee849f",
-      "name": "pakchunk19AA-ArtResCharResNPC5to9-WindowsClient.pak"
-    },
-    {
-      "guid": "4c16ba41-47e5-9963-afd3-5b9974acf542",
-      "key": "0xa49ecffdddff1c04c415635078d12e4953db5b02cffc9a87c5b82a12ba778f3d",
-      "name": "pakchunk19BA-ArtResCharResNPCClassA-WindowsClient.pak"
-    },
-    {
-      "guid": "47cce27c-4083-a8da-a369-a5b1d5b6a69f",
-      "key": "0x72c508d76a478f2976a07f387b39bfdd9ca1d59133dbcc5013802ca1c2bd4215",
-      "name": "pakchunk19BB-ArtResCharResNPC-WindowsClient.pak"
-    },
-    {
-      "guid": "48f1945c-4ace-8bca-c5d8-3380a3eb8090",
-      "key": "0x114bb465ad794360877c3ba9103bb0373abab53ca4bdfa3457ef46d89fc29669",
-      "name": "pakchunk19BB-ArtResCharResNPC-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "ab87122d-4b66-aafa-fded-079f27ce3cc2",
-      "key": "0xaf86f38701c4b40e855477e8f1513c1ee87fc92522a6a1a7cbb88208abb03817",
-      "name": "pakchunk19BB-ArtResCharResNPCClassB-WindowsClient.pak"
-    },
-    {
-      "guid": "d1f59a11-48c2-d089-81a0-fbb0cf5150c3",
-      "key": "0x90eb8ad9163f4768f7934afe0a7403b4c0a80cd73e5570ac6a8cc12e4f913cd5",
-      "name": "pakchunk19BBD-ArtResCharResNPCClassD-WindowsClient.pak"
-    },
-    {
-      "guid": "e08196d4-4481-1a9a-f1cf-41a417796c29",
-      "key": "0xd12e60c9154dddd039e624f1b915082590cab1699b72bc76881477d623cdab9e",
-      "name": "pakchunk19C-ArtResCharResMob-WindowsClient.pak"
-    },
-    {
-      "guid": "4bf17294-46bf-cf8c-1cea-b382ccc494c3",
-      "key": "0xd4dd19eda26b44dc9438477178bf651d396dadcc55b82461c1c02a0eb9c7a85a",
-      "name": "pakchunk19D-ArtResCharResBoss-WindowsClient.pak"
-    },
-    {
-      "guid": "39441c4b-4c6a-63b9-7ed8-3a91b2ab7305",
-      "key": "0x54fe6a1f45971144d265f3bf8110bcb3fdaf9112991d7c6ba4b58a64a8879142",
-      "name": "pakchunk19E-ArtResCharResHeroAtoF-WindowsClient.pak"
-    },
-    {
-      "guid": "121198e2-40dd-117b-c237-1388fce761b8",
-      "key": "0x33292f00f6e6bcd310a77069279f10983077da52795e0cfdce5cd153768407ab",
-      "name": "pakchunk19F-ArtResCharResHero-WindowsClient.pak"
-    },
-    {
-      "guid": "2e467e8a-4fa5-0126-4e8f-d8a7d88233ab",
-      "key": "0x9a3eae9b2ca06c9d9ab2b7f2f9b6de0c0b516a1e93aa44b6def8f34632f744ea",
-      "name": "pakchunk19F-ArtResCharResHero-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "1670ce78-4fb1-94f8-9e35-de83d4fcedfd",
-      "key": "0x80e46d73d23cbad2ef78a13274130fcab56543da6c2e669f5dbf36f027d29c29",
-      "name": "pakchunk2-ArtRes-WindowsClient.pak"
-    },
-    {
-      "guid": "f9d12408-4a9e-9fc2-fd1a-0182bfba4635",
-      "key": "0x0aafb7371a1892268f6b5f1641c8731044570c3e4d81cc7db277357214d40fb8",
-      "name": "pakchunk2-Engine-WindowsClient.pak"
-    },
-    {
-      "guid": "e987c942-4190-cfc0-cf32-83a9e3214f65",
-      "key": "0xfab303452c3f58dcc47ca4f96d2e48ed69e26afb989189f4fb34b48468c60009",
-      "name": "pakchunk2-UI-WindowsClient.pak"
-    },
-    {
-      "guid": "99270d76-49a9-a8c9-fce6-45b85ab713fb",
-      "key": "0xbd9a67b767df6f3570bae15ca89ea8f59d90c24361c5076a9df50e5fb61409a3",
-      "name": "pakchunk20-ArtResCharRes-WindowsClient.pak"
-    },
-    {
-      "guid": "fb6faf66-4a80-c0e9-0071-38add1037c82",
-      "key": "0x426d9f80ce3f34b528beaf8a1a8c15ba125edcdc592c5420cd841587334cbc10",
-      "name": "pakchunk20-ArtResCharRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "df8c5ddc-4f7a-ff6b-c888-eca871c3ae75",
-      "key": "0x1c8b53808a1b9c056f108a3480df2dc68dd45544e95e4339b0755d220b907e6d",
-      "name": "pakchunk20-ArtResCharRes-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "a7c8c698-433e-3e71-a062-548c400a3803",
-      "key": "0x0135d7c80567a4c84677bc08baab42a8446f4064919cc4553caf3dd5ef406350",
-      "name": "pakchunk2000-EnglishChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "dec8c0a6-4087-a289-6488-99bc2569f499",
-      "key": "0xa22c1b0958dee957aac8140958af9fa13a0075430c82b9b9c0acdf225a2cfac3",
-      "name": "pakchunk20000-ChineseChapter000Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "0cdb1964-4f2b-b3da-07b0-6dbc931a245e",
-      "key": "0x56cd674f48e55c7108697a79dc6fddccc69de46dda59e36244cafd6cec5bf915",
-      "name": "pakchunk20001-ChineseChapter001Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "165491f2-4fa2-02f5-02b9-0e94b3d54e83",
-      "key": "0xb37bfe9893973cd4f6ecf6884392b5749bfb01c0a21ef1feb8fc36342e1ed570",
-      "name": "pakchunk2001-EnglishChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "06114814-477e-b047-f926-999b81e7d123",
-      "key": "0x047a4d1dc6eae8475c5ba014750b4b46425f484b603a7ebc82c0d62892d92840",
-      "name": "pakchunk20500-ChineseChapter500Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "8e230f3c-43cc-b1c6-9cfd-4b925df4d25c",
-      "key": "0x4d1e9e6d4f09f9150de4c4c987e9563aa64f217896c4a9d155048485140a2082",
-      "name": "pakchunk20700-ChineseChapter700Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "27f3c86e-4e1b-c8a5-ea16-b6b9ad77d45c",
-      "key": "0xd30068a084ad5a6adf722db93174ecbde09785e397f18354564b312ac0749867",
-      "name": "pakchunk20800-ChineseChapter800Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "5bf4ca9a-411e-fc6e-93bf-8890299221de",
-      "key": "0x4fa506436bffbf31ca182232cccc397a3700ae2d6d28247be151a18047415310",
-      "name": "pakchunk20900-ChineseChapter900Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "02966d40-4dd8-2fac-c757-b3b03b241f36",
-      "key": "0x8a38bbaee97832a1a75b86fb60b77b47771748228f4058db5453dedd6eb43b4c",
-      "name": "pakchunk21-ArtResEffectRes-WindowsClient.pak"
-    },
-    {
-      "guid": "1be0e59c-4308-b415-0c07-768444618f73",
-      "key": "0x16c86316262185406977841fbfc351e9e7e90584a021f6f0a71cc7c8e61c6d6e",
-      "name": "pakchunk21-ArtResEffectRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "837ab65d-473b-ebc1-a027-8f8174312b86",
-      "key": "0x94d3e749ea394bf23adf245ddde7d2835fe346e8c00e6f332b0c9b71b44d22f7",
-      "name": "pakchunk21000-EnglishChapter000Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "69a0ee5f-4c16-68ab-bad2-a2bf054d82b3",
-      "key": "0xeef393addb08327a3a582601ec3a3ff9bf9f2761631b19a0c630ecc978a5e1ad",
-      "name": "pakchunk21001-EnglishChapter001Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "d58d6720-4045-4d7b-98c1-ca8bb5961f81",
-      "key": "0x79ed520d9609ae64a08d8af23f415665f3b9a605619ed321c9db7f822f07f7fb",
-      "name": "pakchunk21500-EnglishChapter500Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "d328663e-4f51-ea19-87f5-12805f531a67",
-      "key": "0x75f4df65a57adebcdbe2e516a0448061dc07c1bfa2094d01147d62cb1fed90c8",
-      "name": "pakchunk21700-EnglishChapter700Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "46c58b73-4137-fe5a-6fc5-d5b0182c3fa2",
-      "key": "0xbcd32265a278fa7f9874f3aa87c643b4d8d7165465504e78d0dabef4e8ffcefd",
-      "name": "pakchunk21800-EnglishChapter800Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "822a85e6-4d41-2c6d-170d-84814afa49ee",
-      "key": "0xdbbb394a1951176f4d6325271151c4874ede20f68adafffba6b9c938b5c89d1f",
-      "name": "pakchunk21900-EnglishChapter900Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "5dd4f45f-497d-0aa2-590c-0983fc4331fc",
-      "key": "0x692acae69da98bdd1d78b3b6ed52d58386791d8b3eba005a2675c8704ef8c6eb",
-      "name": "pakchunk22-ArtResEnvResSpe-WindowsClient.pak"
-    },
-    {
-      "guid": "f555bc38-499e-99a4-7a90-1eb617993d13",
-      "key": "0x1c11d295def99169830ed22616fbf0d639d2013b9fad54a794005a9f2730a79c",
-      "name": "pakchunk22000-JapaneseChapter000Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "c388c08d-42c9-84f3-10a7-fb9d4e339aa5",
-      "key": "0x794a8c3f974fe47a640c936efee5cdff7cf538d7f90ec3c116c2e6d48dd8242b",
-      "name": "pakchunk22001-JapaneseChapter001Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "73a13507-4aa4-16c2-2cf1-9e8cdb3c1fa4",
-      "key": "0xcd704cc68fdb6198923b694a24800f6922766063cd37ec2a4bdf7e2550b07f8d",
-      "name": "pakchunk22500-JapaneseChapter500Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "f0c02abf-4a5b-81cb-8139-de8cb61d17e3",
-      "key": "0x25b3fecc3010744f3df9668e792bda9d944878d084b16656f11b694623316390",
-      "name": "pakchunk22700-JapaneseChapter700Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "a7584d5a-4a3c-9e20-c6a9-cca2c729f7b8",
-      "key": "0x04aee072e86cb0850dc6af59fbf2bd5c38e3613d8c496c59836a9a152faa317a",
-      "name": "pakchunk22800-JapaneseChapter800Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "f1328b5a-4788-9504-dec6-4b94aad248e0",
-      "key": "0x5606d71d9b55542fe1edfb98238e05143304439693cef4b7402b3e0606de6858",
-      "name": "pakchunk22900-JapaneseChapter900Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "d487752d-40ae-0001-30f0-95beac4701ff",
-      "key": "0xfb1d9bfb81cb198af204e296cbb6a6aa9ab168d8360711aa058052d21e667498",
-      "name": "pakchunk23-ArtResEnvResPCG-WindowsClient.pak"
-    },
-    {
-      "guid": "03f2ecea-40c5-bb51-b7c3-118d36b925ab",
-      "key": "0xcfee9dfe17f6f767580c00c9b4fd23f862ab2ade530f8a385a735e88a35a3b45",
-      "name": "pakchunk23000-KoreanChapter000Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "9eab6ecf-48e3-34a3-57db-bab9ff50e04d",
-      "key": "0x7d8b1073b974cbfe62cd655eee9d62f89d9e44f5ab87399f76acce40f5609d05",
-      "name": "pakchunk23001-KoreanChapter001Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "221cd38b-4b6d-32ba-9e08-69b9e34e3665",
-      "key": "0x560180857e2aaff32c1f794276caea10637d51dfa912974d69eb54749111f4c5",
-      "name": "pakchunk23500-KoreanChapter500Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "d46cedd1-49d6-8359-4ebb-beb8549fbec1",
-      "key": "0x7fe3f9062b137ad29bca7cba57ecf22077909dbad380deeacc370513bf2ac3f1",
-      "name": "pakchunk23700-KoreanChapter700Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "626281f2-4dbf-bbf0-d8c6-66a6200ff87a",
-      "key": "0xa320be4f64cbc24c313f74fcbcc3f85297f90ac0fbd09199d4bb02bb1d71346d",
-      "name": "pakchunk23800-KoreanChapter800Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "c93937bd-4142-519a-2864-e4bbeb5ef0d4",
-      "key": "0x2748d74c383da0e8f54e66fbe8244a7fa9a0d89fa1ea164b85e133fea79b4b08",
-      "name": "pakchunk23900-KoreanChapter900Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "6e69de5f-40da-fa3d-b21b-779d1794945c",
-      "key": "0x3d0f2370412f9499e74098cee72ef06692f83c4da61b59d38d65adfd06f97550",
-      "name": "pakchunk25-ArtResEnvOpenWorldAssetBuilding-WindowsClient.pak"
-    },
-    {
-      "guid": "218604e7-404e-84e0-fa5d-c1ae542667f1",
-      "key": "0xe6047b51fb3e4ca9bbb94f9dea867486d67676e68e3718783dbd9d6f0a86b15e",
-      "name": "pakchunk2500-EnglishChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "abe6d55d-4106-2224-c394-018f77c6a454",
-      "key": "0x5ec1e1b7751349af9b5f584b1d9e3ec6a258920b10b8b2b5e9883fb72e77ff6b",
-      "name": "pakchunk26-ArtResEnvOpenWorldAssetProp-WindowsClient.pak"
-    },
-    {
-      "guid": "6bf51f1c-4a44-ae59-47ae-07b9ffdfbcbc",
-      "key": "0x4091c34307e22c8ac74e676707fb4a52371a961bc5ea1ad66b76e4a36ba99f3d",
-      "name": "pakchunk27-ArtResEnvOpenWorldAsset-WindowsClient.pak"
-    },
-    {
-      "guid": "a11f9f6c-424b-cc55-e1d3-ff882d957549",
-      "key": "0xd22fc1680802d08a5aacffbdb8568b4bda976890c068401fe41d560b0557dd15",
-      "name": "pakchunk27AA-ArtResEnvOpenWorldStaticMeshPOIAtoH-WindowsClient.pak"
-    },
-    {
-      "guid": "206689e3-4d29-c667-97f8-98a7cedd693a",
-      "key": "0xaef98509cc7ea632240569a7fbe2f760e1a1d05f4b4d917b3253f7341354bb99",
-      "name": "pakchunk27AB-ArtResEnvOpenWorldStaticMeshPOIItoQ-WindowsClient.pak"
-    },
-    {
-      "guid": "d9695629-4edc-0f76-a996-8ab188e4e860",
-      "key": "0x3fe84146f9037e3404a0d53cc7a4c010427e3dbf3bf029e933f7b6faf60a5e69",
-      "name": "pakchunk27AB-ArtResEnvOpenWorldStaticMeshPOIQtoZ-WindowsClient.pak"
-    },
-    {
-      "guid": "1157d346-448c-a0aa-2eed-a3ad7a2a4439",
-      "key": "0x99ac76ad12618923cbda7738da7558f2532409062b17961ef7ff741d9a0e7aa7",
-      "name": "pakchunk27AB-ArtResEnvOpenWorldStaticMeshPOIQtoZ-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "27ca7317-42d2-c9d3-93cc-70a6b238d3e5",
-      "key": "0xcdff2ced6feb1ac5bc49ac352cd88057efbb329709371a7fa812e719559fb3ae",
-      "name": "pakchunk27BA-ArtResEnvOpenWorldStaticMesh-WindowsClient.pak"
-    },
-    {
-      "guid": "1fc94b46-41c1-7067-7eae-da866f8ac9d6",
-      "key": "0xaa9abf01e9fbfaf0d92137a1cc4d555d0e1073b69d61545e0cfc27d0b88bb396",
-      "name": "pakchunk27BB-ArtResEnvOpenWorldStaticMesh-WindowsClient.pak"
-    },
-    {
-      "guid": "df0f34e9-403b-3023-1d9d-22b412122570",
-      "key": "0x69eef1a3017938bb7d98adebd9cc20a24a9f54100c94ef03727e6a6f331a72a4",
-      "name": "pakchunk27C-ArtResEnvOpenWorldWhiteBox-WindowsClient.pak"
-    },
-    {
-      "guid": "e44129e0-429e-653d-d0dc-79b023c3a937",
-      "key": "0x6e7650f46125100db9b63ec7f1c822fb9ea91f1859d9acbf474fc447d15d877d",
-      "name": "pakchunk27D-ArtResEnvOpenWorldPCGAsset-WindowsClient.pak"
-    },
-    {
-      "guid": "5bf4d575-4a08-e4e0-6380-6987cb19d916",
-      "key": "0x70c85a54d46afbf68b3a6c8fb2fee20fb25b9145303e7f772f7932034c20a1e6",
-      "name": "pakchunk27E-ArtResEnvOpenWorldPlaceHolder-WindowsClient.pak"
-    },
-    {
-      "guid": "3156b29a-4dbf-02ea-4bdf-f096f89552a8",
-      "key": "0x24bdc9094dc670e54c81372572d6d0ce2f2101299b57220abf9ea7f3e553ea01",
-      "name": "pakchunk28-ArtResEnvOpenWorld-WindowsClient.pak"
-    },
-    {
-      "guid": "7498b13c-4935-b189-20d1-55b49c65ad4a",
-      "key": "0xe0f55c311a5da4a115c5439e814d7df1fad8beeca1861721d1b05dd38154d442",
-      "name": "pakchunk28-ArtResEnvOpenWorld-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "69750736-41ed-09a4-60a1-c88d07ec2d06",
-      "key": "0x675718caf01c94c66351f98ea977f6825d39dbbeae4a78ef99b9ebcec6d58ecc",
-      "name": "pakchunk28-ArtResEnvOpenWorld-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "3419aabb-48f2-d627-0586-6b9bf8654807",
-      "key": "0xd7d0ab057373c603f7682cfa8e0fe82978eec1ea224907367d5870552d8df22a",
-      "name": "pakchunk2800-EnglishChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "75be0a36-4f95-41f1-0223-129a6744d772",
-      "key": "0x6f0d1ec42a4c83478789b847b3ef00e7461793779bc79f3fa51726f94e889a15",
-      "name": "pakchunk29-ArtResMatRes-WindowsClient.pak"
-    },
-    {
-      "guid": "0f1f08c3-4b5a-0e5e-eb62-84a8125a4198",
-      "key": "0xbc5eb027e2399f8ac14a2ba44d343ba3c6eb96a29f00a95e40b6240a85dffbab",
-      "name": "pakchunk2900-EnglishChapter900-WindowsClient.pak"
-    },
-    {
-      "guid": "db5f6bbc-4265-9f9b-7930-1fb9c6dba861",
-      "key": "0xaa16d54cd397a0a68ae81b7fd46052e72db1c7afbb42a36f74a7f6fe73748b02",
-      "name": "pakchunk29000-CommonChapter000Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "9d09fe07-4727-b26a-161f-48a8206279ec",
-      "key": "0x249484595d195cd7a5c9ce0710e40c9a9955653850b0a9a6044f77663ae386f8",
-      "name": "pakchunk29001-CommonChapter001Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "a4cd5b7e-4629-2157-29b9-918465afc896",
-      "key": "0xa36d046e38d7cd18b86c9a0ac02ddcc26152115fd530e1f5f12e046046ebc35a",
-      "name": "pakchunk29300-CommonChapter300Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "3565ec1c-4aa8-9cf5-09e9-90b694cb2c77",
-      "key": "0x48f3247b1cc9d768968ff71e91f177d355bfe95b7519727ec626b0b150d29997",
-      "name": "pakchunk29500-CommonChapter500Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "b6049004-43ef-8090-843c-3dae9d25992f",
-      "key": "0xb7e71023dabe4e0c00c8d002b6dbb41ad6d8304b0e24e7cbb99ca0b8dfde7180",
-      "name": "pakchunk29600-CommonChapter600Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "bbbcc450-4ee3-115a-7f31-1ebd4c44344d",
-      "key": "0xd5568a05b2f3fb10bf2cb353baf626e59ebad96f84aa9729f31157e5bf429d15",
-      "name": "pakchunk29700-CommonChapter700Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "978b40f0-4b3a-c978-cf76-1ba2cd7fd128",
-      "key": "0x4be9cec7d7fcdbd1ea211ce5b6a178e3c4a10fd8a6dd19f6b973d78bfe7ef844",
-      "name": "pakchunk29800-CommonChapter800Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "d8492e97-4e6c-f5bb-9f88-6e8b89458dd5",
-      "key": "0x24ed064e59e24cc05ea0082fbdab679ff9ad41995817a32baad4da85e96c82d8",
-      "name": "pakchunk29802-CommonChapter802Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "b06e059c-4110-59fd-e6b8-6693b9ec37e1",
-      "key": "0x45c4d25222e43437536d256497f5e646e5056456f2bd0781ce48205131dde81f",
-      "name": "pakchunk29900-CommonChapter900Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "3ef7b8b5-4a9b-933a-fc5f-9a86f649c9c5",
-      "key": "0x1eda8c293e267e82f93228c1ecf64575ce176350f68a8e9bd5c17eee872cf8b1",
-      "name": "pakchunk29999-CommonChapter999Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "dbe1e090-4d14-cb36-7a9d-4696bbc75c2e",
-      "key": "0x2b2d7b765808e40a855296704ebae1366250595878d6c3a46e9eb31f82b2c29e",
-      "name": "pakchunk30-ArtResAnimRes-WindowsClient.pak"
-    },
-    {
-      "guid": "cbae0aa2-4f10-fe9a-19dc-3f881825b6eb",
-      "key": "0xf0d628bded64ba70a3991c527a3144e77059129ee5e53c828aa33f2145287459",
-      "name": "pakchunk30-ArtResAnimRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "30505b42-4f2f-c567-9193-4daad8e33739",
-      "key": "0xb78e79a41fe708bcdf0fa3e105ac3df87e2fa4578a6299e7060621c7b3e85c8b",
-      "name": "pakchunk30-ArtResAnimResATOE-WindowsClient.pak"
-    },
-    {
-      "guid": "65aecdcf-4094-8952-861f-76842283ad43",
-      "key": "0x85f48f41a468800243f642de3b609fa5186e892257c0e1b3082d5a321e5f8004",
-      "name": "pakchunk30-ArtResAnimResFTOH-WindowsClient.pak"
-    },
-    {
-      "guid": "edb96620-4cab-0d5c-78fd-bf87be627166",
-      "key": "0x59e86c3a9e18a4f7c71a3601fd868fdf418182b00a6fe8637ff61a1b387a92e0",
-      "name": "pakchunk30-ArtResAnimResITOM-WindowsClient.pak"
-    },
-    {
-      "guid": "e7f7b455-4d70-9ced-18f9-d5933b5125c0",
-      "key": "0x8d56c1a4c134fffe5624c1a9c19a2c693cc8515004eb53752ed8645808c36e73",
-      "name": "pakchunk3000-JapaneseChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "4890368b-4bff-57cf-0c27-829f302ee739",
-      "key": "0x762d10b34a07ba78af04d439337cb0686d3024fe36ce11492150a4f24873daef",
-      "name": "pakchunk3001-JapaneseChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "7c3ebf66-42c0-c63f-d30e-c0b713281489",
-      "key": "0x0b6caf65fc9df52204a9898f9d3dcda4eb26a544873cc946e6e0f3c32c37df4b",
-      "name": "pakchunk31-ArtResEnvRes-WindowsClient.pak"
-    },
-    {
-      "guid": "e6ceca2f-4f17-88a0-0aa0-91b4040548de",
-      "key": "0xe349737429f0d982cffeba5983a0fa101f58e20da092dd5af3b957bbf9f17645",
-      "name": "pakchunk31-ArtResEnvRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "f7162871-4493-8e58-8362-5292f1dc12d7",
-      "key": "0x03086899886de24b0ba9602667fbc93b5d24ca595ccaee952bfe6e6482d84fb7",
-      "name": "pakchunk31-ArtResEnvRes-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "1ded2ec8-4edf-5370-111c-12ae2ebfc1b8",
-      "key": "0x27a78099f8dc7441f499b16df83efcdea561c95b88e264254e0935322bbae9f9",
-      "name": "pakchunk31AA-ArtResEnvResDungeonpATOD-WindowsClient.pak"
-    },
-    {
-      "guid": "feadddbf-4109-df8a-6545-eebec990de77",
-      "key": "0x5a01c7c74c2d286d4f658ead3538d871f83e7cac7f4ab13bd94ae1030a605112",
-      "name": "pakchunk31AA-ArtResEnvResDungeonpATOD-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "6125e856-4ed1-e45e-b64d-6fa4171f371c",
-      "key": "0xf0888598183a6c4f754e0c7ea9a9c9eb66f85addb98451af1a98f0aae6cf1863",
-      "name": "pakchunk31AB-ArtResEnvResDungeonETOZ-WindowsClient.pak"
-    },
-    {
-      "guid": "c62aa393-450d-9b7c-40bc-bf83845680c7",
-      "key": "0x71224786074c1f31e7544bfbf49e0af4f297e004e920c277994f009af2d8f155",
-      "name": "pakchunk31AB-ArtResEnvResDungeonETOZ-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "0f3be31b-4737-9f9c-2118-4b994013b104",
-      "key": "0x05507b617c752d73a0e61ef64655ce66103d951fdca530321b561b915128180d",
-      "name": "pakchunk31BA-ArtResEnvResGenericAssetPropATOF-WindowsClient.pak"
-    },
-    {
-      "guid": "1e26aa8b-45d6-0a7a-177d-5ba686a6c473",
-      "key": "0x25234625fb931f02e673367e2b9503f45bcf28ff05752cdf36542e23c3893ec9",
-      "name": "pakchunk31BB-ArtResEnvResGenericAssetProp-WindowsClient.pak"
-    },
-    {
-      "guid": "0076e256-4214-d5da-c8d3-4a874506be37",
-      "key": "0x9ad1ad0bbd56c5eb8aad74e29bf19b2f4ba490d7f6e25bfd32cd48b03c4431bf",
-      "name": "pakchunk31BB-ArtResEnvResGenericAssetProp-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "5e387040-4049-fe8d-dd66-a899b3900bfa",
-      "key": "0x22bf3d6e5adb442c1095ca8a6a9161cbfb3497eced1170d3af629e6c8e84664d",
-      "name": "pakchunk31BB-ArtResEnvResGenericAssetProp-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "4fc4c9da-4d9a-38cc-15b0-ac8922197443",
-      "key": "0x130816f0375673a976e10deb51563a21f71f2dab14e728fbe64569bd0cd8c44a",
-      "name": "pakchunk31C-ArtResEnvResGenericAsset-WindowsClient.pak"
-    },
-    {
-      "guid": "b6d51bba-422a-3c21-5ae3-138bf7722dd1",
-      "key": "0xe558bc7c856e1d61b378006c40590b830dbbe0c5c2cd0b0ce711f059966e8649",
-      "name": "pakchunk31C-ArtResEnvResGenericAsset-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "5086aabe-4592-a726-7ea8-b5a058b78aad",
-      "key": "0x18da92bbe77ed8f0bef342121e9a0205784162d4d556138be90ba88d1723d972",
-      "name": "pakchunk32-ArtResVehRes-WindowsClient.pak"
-    },
-    {
-      "guid": "8e1fb461-425e-c6fb-dc28-f2b06e187354",
-      "key": "0x2ce833b900bba72df895020085cf7cd76429613bcdc7fda4c96443d4fe0e9797",
-      "name": "pakchunk3500-JapaneseChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "21921d6c-4c8b-7a58-13af-16a09271d335",
-      "key": "0xe9990042902903d33caf811db30767d87baee9aabb4e1cd700840c38a083f99e",
-      "name": "pakchunk3800-JapaneseChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "85c7da1f-40ed-5ce5-e932-3e9c3b68a8dc",
-      "key": "0xc17e8ace5e409adbda01b631dc25f4114d33665444c50055292fb0c5ab3b9be1",
-      "name": "pakchunk39-ArtRes-WindowsClient.pak"
-    },
-    {
-      "guid": "6fa996c3-4fda-5358-caef-19a053375089",
-      "key": "0x0fa534269ea4cb1605b2930cb6c566d21ab30c6695673df3506197525e593dcb",
-      "name": "pakchunk39-ArtRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "8a3fc86a-42af-9f4a-c632-33a76556333d",
-      "key": "0x7a540a1290efe5f74d40a64d31c9a3de9e2b55065fd661ba3267cb4c520593be",
-      "name": "pakchunk39-ArtRes-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "7de7cbe9-42f2-985e-3919-d896d3e8e91e",
-      "key": "0x34dcfcf05a3746c4c79bd5e59c1d099f169cba676dfe2ddfe7063f1ba97c6eb8",
-      "name": "pakchunk3900-JapaneseChapter900-WindowsClient.pak"
-    },
-    {
-      "guid": "61e31dc1-4ae7-3d9e-0a38-15a513402098",
-      "key": "0x1107dbb1904c00f250e4c0369e775496cddf546f210a57e7d37d7f52050ee6c2",
-      "name": "pakchunk4-DestructableObject-WindowsClient.pak"
-    },
-    {
-      "guid": "6b42d925-4d82-ffbb-3d90-3f98fde4e2dd",
-      "key": "0x12c93210ee8c7e914105b7827285552c7adbd0369f2b98aada8a7beac86e8c79",
-      "name": "pakchunk40-LogicRes-WindowsClient.pak"
-    },
-    {
-      "guid": "b4d7bb51-44e5-65df-3ec0-59b611f8b746",
-      "key": "0xa2702215d1baad8312ffbd756cfb090a4c9d8262991910b260d186fe0f5dd66d",
-      "name": "pakchunk40-LogicRes-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "5838331d-4685-12f1-3f29-2f8f194d5d18",
-      "key": "0x8b8c2feb1271cb6f619a0b06c24ac49703a2596c3bcde63ac4a1831b680d1fc0",
-      "name": "pakchunk4000-KoreanChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "f8d141c0-40b5-2016-e3e8-ff92ae28fd31",
-      "key": "0x1f7111299ed63d90f8c0a2c7c9f9eae297fcce04dd32f47823ef890cc8a4f0e7",
-      "name": "pakchunk4001-KoreanChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "50c7a784-4b1c-d248-90a2-8aa82de8c8ae",
-      "key": "0x8badd73ce078367b05a1f82a9bdd9390c261866ab8fe2cbb167cef216dab9b60",
-      "name": "pakchunk41-Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "06b04cb8-4d6b-56d2-83b6-c3805d35780c",
-      "key": "0x6ebf73316de5668cb53c2721a20f48f4c475c643fb8f8d7eab8a6a319b89520c",
-      "name": "pakchunk4500-KoreanChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "18941ff3-40ce-3bd9-9462-8b8fdd6fdbcf",
-      "key": "0x020fe1c9ca332bc429bb6d352f2d6d801bed50386f093031cae3b30f913a1cad",
-      "name": "pakchunk4800-KoreanChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "b58e79b9-4eac-0a42-b045-7aa14373f14f",
-      "key": "0xed914cb7c7a3d81c94df83b87c1d0382c8fb64d5b5c9972e967640b4d730e359",
-      "name": "pakchunk4900-KoreanChapter900-WindowsClient.pak"
-    },
-    {
-      "guid": "4aee0dad-4fc2-f25f-675a-7c948ebd2a75",
-      "key": "0xc1d21e3802e375a65589ac4c23e5e599d7a8bfed305db73863b27f678522e418",
-      "name": "pakchunk5-SceneManagement-WindowsClient.pak"
-    },
-    {
-      "guid": "cefd4b02-42af-fb2c-1ba5-b489f2d5a2d1",
-      "key": "0xffcb63892f0e0d774a0eef5e5985c71ef33a9df12a71fb691349728cfba0eabb",
-      "name": "pakchunk50-MapsWC-WindowsClient.pak"
-    },
-    {
-      "guid": "fe665b8a-4018-07b7-8b58-f8b5c54b79a6",
-      "key": "0x245fee89e44a6442a47a7a5425fd0a21773ff63170244a9c3c02cb0da9c8efb7",
-      "name": "pakchunk50-MapsWC-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "919a2014-41a4-b082-2e9a-748193a37af8",
-      "key": "0xf3eeac4e00536e206637f962b50b407908b276f10706721422ff5905a2f1807a",
-      "name": "pakchunk5000-ChineseTWChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "a6e1a64f-47f1-e8e8-0306-93bca49e9fd1",
-      "key": "0xbc4640c1a83c4d25734ca592523d050eb693601068f47d48f8791f214dbec744",
-      "name": "pakchunk5001-ChineseTWChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "85794ca9-4656-31e7-0d3b-4782f3cbe0b5",
-      "key": "0x9181e15ecee4a3805de807d00ce7aae42ad04064a5e773ef98d10491e1b41695",
-      "name": "pakchunk51-Extra-WindowsClient.pak"
-    },
-    {
-      "guid": "bfb17ff5-401a-b2eb-d706-0492131ccede",
-      "key": "0x880aa3e5cae3112450a3e341aade309db4f2c5176ffeb9df8d5114bca15a5685",
-      "name": "pakchunk51-Extra-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "95dff701-4299-a4a4-50ac-b385c929d07e",
-      "key": "0xb3500625db430a006e2d547c60607178bfff95aed36a5d2d3edf9ede1f74fee1",
-      "name": "pakchunk51-Extra-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "3dc44c5a-4881-fbc0-5944-9a83baf331e7",
-      "key": "0xa69186dcd4eeff179ac499a58562879310e1334cd5387233787d26d89bc921e0",
-      "name": "pakchunk5800-ChineseTWChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "6d12387c-48f0-e9c7-ea58-998026b70aeb",
-      "key": "0xcb4a8f045fde03998b6bc0e7bcb181e72de33e3a8d7894d07b9effb829facad5",
-      "name": "pakchunk60-ChineseAudio-WindowsClient.pak"
-    },
-    {
-      "guid": "ec2401af-4367-afe5-96a1-f4a5e41aeb84",
-      "key": "0x42f7f335e591493cbb2627129dee0725e234faf03d0d14718bdba82ebd623e86",
-      "name": "pakchunk61-EnglishAudio-WindowsClient.pak"
-    },
-    {
-      "guid": "f833182b-4916-e64a-911e-35b54d4a3ec9",
-      "key": "0x6440596fd8ff6157b13a14e9d47321ef2f35042d19f800f4803e3e6a97d66928",
-      "name": "pakchunk62-JapaneseAudio-WindowsClient.pak"
-    },
-    {
-      "guid": "c5eb83ce-47b8-f972-2079-8485225108ee",
-      "key": "0x48a35ea22be298e06a7226d5019a045dd6e2402ca867f1eaa6c8184f4c9ae6d7",
-      "name": "pakchunk63-KoreanAudio-WindowsClient.pak"
-    },
-    {
-      "guid": "8813c8c1-4d9c-4fb1-668c-828ee95da0f0",
-      "key": "0x2d2d03ee3fca25c628fff03d6deccc830854c63a416196532ee34a1f2dbf9b4e",
-      "name": "pakchunk70-Audio-WindowsClient.pak"
-    },
-    {
-      "guid": "01fd7a5a-4929-e115-6980-0db93a9482ff",
-      "key": "0xe8fdf37895ac655088686514806895440a925dcd433680b1af24fb8e1e61e948",
-      "name": "pakchunk72-Movie-WindowsClient.pak"
-    },
-    {
-      "guid": "15708be7-49cb-2250-6fff-47abf19a97c4",
-      "key": "0x2512d9c4ce34035639a1b51a9fb06c4d452acc1e8eb721c9609e0bf48755846f",
-      "name": "pakchunk73-MovieChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "9c5af000-47c0-d030-1aef-fba6ec137d59",
-      "key": "0x3a11700aa47173f7bd45447e7cdb930a518e2076d4268c831e187fbffd5793f4",
-      "name": "pakchunk74-MovieChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "8a1207ac-44ab-4988-cd1e-0e84001e4b00",
-      "key": "0xc2877b6cd719643da8c0270ca5e7afeee3c28a9756b4b04a2062b2bb221848c4",
-      "name": "pakchunk75-MovieChapter300-WindowsClient.pak"
-    },
-    {
-      "guid": "a8d5cd81-4fa5-8c8b-fbd5-9dae96367d42",
-      "key": "0x5477485bc44dabc87a68783f4deb063edf1d69fe0654adb668b75c0d75ac249d",
-      "name": "pakchunk76-MovieChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "89d61207-43a1-67f1-ad66-da8bab219f80",
-      "key": "0x5f1c15e62049b9de83fe12d72f2a63bc678b03975cc8caf054945a22ef46ed0e",
-      "name": "pakchunk77-CommonChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "9d59c946-409e-7914-72a6-7b90be5aab19",
-      "key": "0xd4c671e06f10cb012d48e30c4fb88eaeb65c39035b1448846c76124f0e77ac85",
-      "name": "pakchunk77-CommonChapter001-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "6c612734-4d83-621b-0cf1-5492c393e1d9",
-      "key": "0xb8f76f8c4248899f28b6a9de132c40bd237e9ea94d938467136fbb75fa24ffdc",
-      "name": "pakchunk77-CommonChapter001-WindowsClient_1_P.pak"
-    },
-    {
-      "guid": "0e2d4e8c-4c95-6b3d-1904-da9e961c8bda",
-      "key": "0x7eb0867a2e4ce62ec7c9df43b4f6a424e246ef3c38f27b1cb8bcef01a8f727f8",
-      "name": "pakchunk78-CommonChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "a65b0ad9-4c79-81c0-71f6-0f81e888fdcb",
-      "key": "0xa15da423e3e182cb075f3697aad09235b5621cfcf26b2e8aa8479f3f662c27b3",
-      "name": "pakchunk78-CommonChapter001-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "c423242e-419c-1141-1e74-c59fc9ea56e6",
-      "key": "0x769a6def1a0512f98fd5ca7eb63a00993feddc271bd1ded18d2940f6ecb11373",
-      "name": "pakchunk80-ChineseText-WindowsClient.pak"
-    },
-    {
-      "guid": "3ea8851c-4abd-1e36-23bc-0b9c5a23a8b8",
-      "key": "0x5c1583c0c02ac75fc78579692ef8107a485e1ac5c9a72635b0ad1ccf1cde60ac",
-      "name": "pakchunk81-EnglishText-WindowsClient.pak"
-    },
-    {
-      "guid": "002367c1-4a2c-7015-ad31-1db61308d6ab",
-      "key": "0x3af0d0e095f7030d4d31398d0d96190f6c807b9948924f5e57a9f8a3a52ebb59",
-      "name": "pakchunk82-JapaneseText-WindowsClient.pak"
-    },
-    {
-      "guid": "ef38667a-41fd-34ae-a281-a29b302d2d88",
-      "key": "0x2fd2d5b5573700066404bd7c7fe9c7c75d9624225bff646976d49fe662e73880",
-      "name": "pakchunk83-KoreanText-WindowsClient.pak"
-    },
-    {
-      "guid": "a4bbab87-4ab3-e0bd-7b0b-798a8e8580d2",
-      "key": "0x7e196f1064c71e5e0512408682cc6347294383cfa9f7759d44bdc6620b1af1db",
-      "name": "pakchunk84-ChineseTWText-WindowsClient.pak"
-    },
-    {
-      "guid": "ec9b7ae1-4dbe-79e8-c272-979fdd61464c",
-      "key": "0xedc402401d0b80ce6e46a023c4aa3209cf06a23bbd85b8079cd9f370c2e41148",
-      "name": "pakchunk8AA-MapsWPSP_OW_Main_Zero_And_One-WindowsClient.pak"
-    },
-    {
-      "guid": "82045872-46a7-b53d-282c-c0a65878e4fa",
-      "key": "0x059165948bd5986cabac00210b0f76b858265688d9ddf93868883975e84a0725",
-      "name": "pakchunk8AA-MapsWPSP_OW_Main_Zero_And_One-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "17c83a93-4a03-1d5d-4782-2daf0e46b44c",
-      "key": "0x121dc181e6ed60a336c0b495312f1421b8936a0a5e4a5a1e16c402daf4f1ec73",
-      "name": "pakchunk8AB-MapsWPSP_OW_Main_Two_And_Three-WindowsClient.pak"
-    },
-    {
-      "guid": "92c9ab1b-42ab-4716-8b53-9cac580908e7",
-      "key": "0x5732a4d1da06cc34780686c26f521a87a0d5cd260984ad329188c3898c970944",
-      "name": "pakchunk8AB-MapsWPSP_OW_Main_Two_And_Three-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "d48ff078-466a-f12b-07ff-478736e327aa",
-      "key": "0xbbac595ffcb3434793d66db1e405feb51049cbbade30934b584e2ad6268d153a",
-      "name": "pakchunk8AC-MapsWPSP_OW_Main_Four_And_Five-WindowsClient.pak"
-    },
-    {
-      "guid": "aa2c849d-408b-eedf-f603-5892e794c043",
-      "key": "0xae1228cb97a31f5d2dda7c0eb459f91a4594ef49e19581d4db3d39a8f189815c",
-      "name": "pakchunk8AC-MapsWPSP_OW_Main_Four_And_Five-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "85566340-432b-7ba3-6a38-098231d73bad",
-      "key": "0x405411de0520f571bdec9b1f1c7b404e523d722a51ed0b210d4a607f0930d443",
-      "name": "pakchunk8AD-MapsWPSP_OW_Main_Six_And_Seven-WindowsClient.pak"
-    },
-    {
-      "guid": "06d67e14-4d81-5cde-c5b1-7e84903cfadb",
-      "key": "0xa46118035d72ae36e246e706006f0e533a39e27533d82c2cd53c60a4691c2399",
-      "name": "pakchunk8AD-MapsWPSP_OW_Main_Six_And_Seven-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "98c32812-4441-39a7-ece6-9592066ec784",
-      "key": "0x52b739354208e3823d866712c2de073d0f8a537d11930f4875551aa984567781",
-      "name": "pakchunk8AE-MapsWPSP_OW_Main_Eight_And_Nine-WindowsClient.pak"
-    },
-    {
-      "guid": "3bafa781-43b7-2b03-0471-16887cc609b9",
-      "key": "0xae62d31ed7ece0986f08b46c31bea5519bbe19b62efec6c141fb063893237654",
-      "name": "pakchunk8AE-MapsWPSP_OW_Main_Eight_And_Nine-WindowsClient_0_P.pak"
-    },
-    {
-      "guid": "d7513ceb-433e-93e3-b105-f3aca3ff8404",
-      "key": "0x8a85f3e7f61f39581e9ab039d7ad9b3dfaaf7f93f10e126571646651ff622212",
-      "name": "pakchunk9000-CommonChapter000-WindowsClient.pak"
-    },
-    {
-      "guid": "1c8ff758-4d5d-f302-70fe-9dbb2c157d15",
-      "key": "0xb88a4cbabe0f2ddc0ce36abc7b8a47bdb10365d9712f49f5ad68e8dff8f891f5",
-      "name": "pakchunk9001-CommonChapter001-WindowsClient.pak"
-    },
-    {
-      "guid": "4c8786ec-4e6c-628b-95fc-77b2b61308fc",
-      "key": "0x527f28779e972537900346b855b7f62f3db1c908585aa55ff85e9e4a23d3529c",
-      "name": "pakchunk9500-CommonChapter500-WindowsClient.pak"
-    },
-    {
-      "guid": "ad65ccb5-4d97-356e-8419-a4b5914ea75d",
-      "key": "0xab4d2431b93bb51a833656c7be48540ae2b8c5467fd48dd957162f9f7ac8a46e",
-      "name": "pakchunk9600-CommonChapter600-WindowsClient.pak"
-    },
-    {
-      "guid": "7d4522b7-4a80-c3e1-ce57-f5a5118aa094",
-      "key": "0x2cf48a145f36ead43b38d923950ba8cc4d598e887868ebf9ff2940893140eecf",
-      "name": "pakchunk9700-CommonChapter700-WindowsClient.pak"
-    },
-    {
-      "guid": "1549b700-4611-95d6-d99a-80bc43e0ec27",
-      "key": "0x1dae7e000778da12f19bb6f8eeb9d59accd53a3d9aa378c3840831eb6a47858f",
-      "name": "pakchunk9800-CommonChapter800-WindowsClient.pak"
-    },
-    {
-      "guid": "46c567ce-488f-0ccd-408f-aa80b3856bac",
-      "key": "0xf6fdcba2e9470962509d7345e4bcf9b38d2f4dcc5fed91aea44b29077fbfddb0",
-      "name": "pakchunk9900-CommonChapter900-WindowsClient.pak"
-    },
-    {
-      "guid": "13b7a631-4995-9b5a-46a8-0a82abe40bbb",
-      "key": "0x45e2d12d9913dc796f73e989ce0c4703e2f91638de2ce7ba06b3044f68b19e03",
-      "name": "pakchunk9999-CommonChapter999-WindowsClient.pak"
-    }
-  ]
-}
